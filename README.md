@@ -1,6 +1,7 @@
-# Documentation of paggy - Package Manager
+# Documentation of Paggy
 
 ## Introduction
+(comming soon)
     - About paggy
         - Goals
         - Why paggy?
